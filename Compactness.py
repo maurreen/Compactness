@@ -1,5 +1,7 @@
+# By Maurreen Skowran
+# April 2016
 import arcpy
-import math
+import math 
 from arcpy import env
 
 fc = arcpy.GetParameterAsText(0)
